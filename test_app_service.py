@@ -8,3 +8,7 @@ def test_validar_campos_completos():
         "quantidade": 10
     }
     assert validar_campos(data) is None
+
+
+
+
